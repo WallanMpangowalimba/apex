@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112670022154",
+    "project_id": "tippy-efd19",
+    "storage_bucket": "tippy-efd19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112670022154:android:13ff9133cdc7b55c729df3",
+        "android_client_info": {
+          "package_name": "com.mywork.tippy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112670022154-a5uf73fsuncnd2ar0pp2r51827spq08k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1TcxelWCp6g4m-A8c2RbZd0vbq4dS70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112670022154-a5uf73fsuncnd2ar0pp2r51827spq08k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
